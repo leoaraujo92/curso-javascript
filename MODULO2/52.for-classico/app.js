@@ -10,6 +10,8 @@ const frutas = ['Abacate', 'Banana', 'Caqui', 'Damasco', 'Figo'];
 
 
 for (let i = 0; i < frutas.length; i++){
-    console.log(frutas[i])
+   // console.log(frutas[i]) percorrendo os indices de um array  
 }
+
+
 
